@@ -14,4 +14,4 @@ def fizzBuzz():
         else:
             print(i)
 
-    sleep(20)
+    input("Press any key to exit")
