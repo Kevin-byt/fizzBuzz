@@ -1,6 +1,7 @@
 # fizzBuzz
 
 The executable file for this project is /dist/main.exe
+The executable file is generated from main.py
 
 Instructions to run the program:
 
